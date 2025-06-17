@@ -1,9 +1,9 @@
 {
-  "name": "no-belts",
+  "name": "belt-ban",
   "version": "0.0.0",
-  "title": "No Belts!",
+  "title": "No Belts - Challenge Mode",
   "author": "iron-bound",
-  "homepage": "https://github.com/Iron-Bound/no-belts",
+  "homepage": "https://github.com/Iron-Bound/belt-ban",
   "description": "Continuous momentum loops no longer",
   "factorio_version": "2.0",
   "dependencies": [
