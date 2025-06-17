@@ -1,13 +1,13 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "no-belts",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "No Belts!",
+  "author": "iron-bound",
+  "homepage": "https://github.com/Iron-Bound/no-belts",
+  "description": "Continuous momentum loops no longer",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "space-age"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
